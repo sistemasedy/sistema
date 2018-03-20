@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel modificado por edy
+                    Laravel pull al servidor
                 </div>
 
                 <div class="links">
