@@ -14,3 +14,8 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('lista/{articulos?}', function ($articulos = "listado de articulos"){
+    	echo $articulos;
+
+});
