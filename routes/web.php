@@ -19,3 +19,7 @@ Route::get('lista/{articulos?}', function ($articulos = "listado de articulos"){
     	echo $articulos;
 
 });
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
