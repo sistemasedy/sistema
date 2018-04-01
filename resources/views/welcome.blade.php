@@ -84,7 +84,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Automatizado2
+                    Laravel Sistems
                 </div>
 
                 <div class="links">
